@@ -1,6 +1,6 @@
 # 🏡 Easier Home Real Estate – Ecosistema Digital Completo
 
-Diseño e implementación de presencia digital integral para asesoría inmobiliaria de lujo especializada en compradores nacionales e internacionales en la Costa del Sol (Marbella).
+Diseño e implementación de presencia digital integral para asesoría inmobiliaria de lujo especializada en compradores nacionales e internacionales en la Costa del Sol (Marbella). 
 
 Proyecto real desarrollado por **Costa Innova** como consultora de transformación digital para PYME.
 
