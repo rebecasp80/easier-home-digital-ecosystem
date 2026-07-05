@@ -38,6 +38,8 @@ easier-home-digital-ecosystem/
 
 │   ├── captura-contacto.png
 
+│   ├── captura-home-english.png
+
 │   └── captura-legal-rgpd.png
 
 │
@@ -72,13 +74,7 @@ easier-home-digital-ecosystem/
 
 ├── whatsapp-business/
 
-│   └── captura-whatsapp-business.png
-
-│
-
-└── analitica/
-
-└── captura-google-tag-manager.png
+└── captura-whatsapp-business.png
 
 ---
 
