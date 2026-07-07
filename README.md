@@ -74,7 +74,23 @@ easier-home-digital-ecosystem/
 
 ├── whatsapp-business/
 
-└── captura-whatsapp-business.png
+│   └── captura-whatsapp-business.png
+
+│
+
+└── project-management/
+
+   ├── project-charter.docx
+
+   ├── raci-easier-home.docx
+
+   ├──  registro-riesgos-easier-home.docx
+
+   ├── gantt-easier-home.docx
+
+   ├── retrospectiva-easier-home.docx
+
+   └── plan-comunicacion-easier-home.docx
 
 ---
 
@@ -83,8 +99,6 @@ easier-home-digital-ecosystem/
 - **Make (Integromat):** automatización de flujos de captación de leads
 
 - **Google Sheets:** base de datos de leads en tiempo real
-
-- **Google Tag Manager:** analítica y seguimiento de conversiones
 
 - **Google Business Profile:** presencia en buscadores y Google Maps
 
@@ -95,6 +109,10 @@ easier-home-digital-ecosystem/
 - **IA Generativa:** creación y optimización de contenido
 
 - **Gamma:** desarrollo de la web bilingüe ES/EN
+
+- **HubSpot CRM / Pipedrive:** gestión de contactos y pipeline de ventas integrado con Make
+
+- **Google PM Methodology:** gestión profesional del proyecto de principio a fin
 
 ---
 
@@ -118,8 +136,6 @@ Incluye aviso legal, política de privacidad y cookies conforme al RGPD.
 
 - Google Business Profile configurado y optimizado para búsquedas locales e internacionales
 
-- Google Tag Manager instalado con calidad de contenedor **Excelente**
-
 ### 📱 Ecosistema de Redes Sociales
 
 - TikTok, Instagram y Facebook configurados y vinculados
@@ -139,7 +155,27 @@ Incluye aviso legal, política de privacidad y cookies conforme al RGPD.
 - Guía de inversión inmobiliaria de 30 páginas como activo de captación
 
 - Formulario específico de descarga automatizado con Make
+  
+---
 
+### 📂 Gestión de Proyectos (Google PM Methodology)
+
+Proyecto gestionado de principio a fin aplicando la metodología **Google Project Management Certificate**.  
+
+Documentación completa disponible en la carpeta `/project-management/`:
+
+- **Project Charter** — alcance, objetivos SMART, criterios de éxito y aprobación formal
+
+- **Matriz RACI** — roles y responsabilidades por fase y tarea (7 fases · 26 tareas)
+
+- **Registro de Riesgos** — 12 riesgos identificados con probabilidad, impacto, mitigación y estado
+
+- **Cronograma Gantt** — planificación semana a semana de abril a julio 2026 con 5 hitos clave
+
+- **Retrospectiva** — análisis 4L: lo que funcionó, áreas de mejora, lecciones aprendidas y acciones futuras
+
+- **Plan de Comunicación** — canales, matriz de comunicación por fase y normas del proyecto
+  
 ---
 
 ## 📊 Principales resultados
@@ -154,6 +190,8 @@ Incluye aviso legal, política de privacidad y cookies conforme al RGPD.
 
 🔹 **Lead magnet** implementado con descarga automatizada  
 
+🔹 **Gestión PM completa** aplicando metodología Google: Project Charter, RACI, Gantt, Registro de Riesgos, Retrospectiva y Plan de Comunicación
+
 ---
 
 ## 🌍 Web del Proyecto
@@ -164,9 +202,9 @@ Incluye aviso legal, política de privacidad y cookies conforme al RGPD.
 
 ## 🚀 Próximos pasos
 
-- Conectar Google Analytics 4 al GTM para métricas de visitas y conversiones
+- Migrar web a plataforma con dominio personalizado para reforzar SEO y marca
 
-- Configurar etiquetas de seguimiento de formularios en GTM
+- Implementar Google Analytics 4 en nueva plataforma para métricas reales
 
 - Campaña de contenido activa en redes sociales
 
