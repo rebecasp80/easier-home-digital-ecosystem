@@ -136,6 +136,10 @@ Incluye aviso legal, política de privacidad y cookies conforme al RGPD.
 
 - Google Business Profile configurado y optimizado para búsquedas locales e internacionales
 
+- Migrar web a plataforma con dominio personalizado para reforzar SEO y marca
+
+- Implementar Google Analytics 4 en nueva plataforma para métricas reales
+
 ### 📱 Ecosistema de Redes Sociales
 
 - TikTok, Instagram y Facebook configurados y vinculados
@@ -229,3 +233,4 @@ Proyecto desarrollado por Rebeca Soto a través de **Costa Innova**, consultorí
 Este proyecto se distribuye bajo la licencia **MIT**.  
 
 Consulta el archivo `LICENSE` para más detalles.
+
